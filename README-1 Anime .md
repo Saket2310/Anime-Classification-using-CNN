@@ -1,4 +1,4 @@
-🎌 Anime & Pokémon Classification Using CNN
+🎌 Anime Classification Using CNN
 📌 Project Overview
 This project is about classifying images of Anime and Pokémon characters using a deep learning model. We use MobileNetV2, a pre-trained Convolutional Neural Network (CNN), and add extra layers to improve classification accuracy.
 
