@@ -21,11 +21,7 @@ pip install tensorflow numpy opencv-python matplotlib scikit-learn
 Alternatively, if you have a requirements.txt file, install all dependencies at once:
 pip install -r requirements.txt
 
-🔹 Step 2: Clone the Repository
-git clone https://github.com/your-username/Anime-Pokemon-Classification-CNN.git
-cd Anime-Pokemon-Classification-CNN
-
-🔹 Step 3: Run the Jupyter Notebook
+🔹 Step 2: Run the Jupyter Notebook
 jupyter notebook Anime_Classification_using_CNN.ipynb
 Follow the steps in the notebook to load data, preprocess it, and train the model.
 
